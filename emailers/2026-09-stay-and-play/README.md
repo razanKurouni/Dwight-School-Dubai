@@ -21,7 +21,7 @@ HTML build of the "WSA Emailer Sept26" design (600 W x ~1800 H).
 | Logo | https://dwight.ae/ |
 | Main image (hero) | https://dwight.ae/event-calendar/stayplay-october2026/ |
 | REGISTER 1 (Stay & Play) | https://dwight.ae/event-calendar/stayplay-october2026/ |
-| REGISTER 2 (Open Morning) | **PENDING – client to provide Monday.** Placeholder `REGISTER_LINK_2` in `index.html`. |
+| REGISTER 2 (Open Morning) | **TEMPORARY:** https://dwight.ae/inquiry/ until the client provides the real URL (Monday). Search for `TODO` in `index.html`. |
 | Early Years image | https://dwight.ae/academics/early-years-programme/ |
 | Primary Years image | https://dwight.ae/academics/primary-years-programme/ |
 | Middle Years image | https://dwight.ae/academics/middle-years-programme/ |
@@ -32,7 +32,7 @@ HTML build of the "WSA Emailer Sept26" design (600 W x ~1800 H).
 
 ## Before sending
 
-1. Replace `REGISTER_LINK_2` with the Whole School Open Morning registration URL.
+1. Replace the temporary REGISTER 2 link (`https://dwight.ae/inquiry/`, marked `TODO`) with the Whole School Open Morning registration URL.
 2. Upload the `images/` folder to the mailing platform / web host and replace every `images/` path in `index.html` with the absolute hosted URL (e.g. `https://dwight.ae/emailers/sept26/`). Email clients cannot load relative paths.
 3. Send a test to Outlook, Gmail and iPhone Mail.
 
